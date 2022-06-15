@@ -1,0 +1,6 @@
+secrets
+venv
+*.log
+*egg*
+.idea/
+build/
